@@ -55,6 +55,32 @@ A blueprint to rebuild America—swarm-first, lean, and fierce. Debt’s gone, f
   *What*: $1T fund from $4.5T junk bond dump (Debt Jubilee)—earns 5% ($50B/year) to seed co-op healthcare.  
   *Why*: Shaves $1T off fed healthcare—$50B/year fuels swarm clinics, no new taxes.
 
+#### Mental Health & CSWF
+
+##### Mental Health Sovereign Wealth Fund (MHSWF)
+- **What**: $750B from NEC reforms (bond sales, excise surpluses) funds a national mental health co-op system—5% yield generates $37.5B/year for local clinics and services.
+- **Why**: Breaks insurance stranglehold—clinics charge cost-based rates ($50/hr therapy, $2K rehab beds), cutting gouging by 70%. Co-ops run it, no corporate hands.
+
+##### Youth Mental Resilience Initiative
+- **What**: $5B/year to schools for grit-building programs—mandatory physical training (hikes, calisthenics), problem-solving drills (real-world tasks), and peer-led mentoring.
+- **Why**: Cuts teen depression by 30%, raises resilience—kids handle stress, not break. $3B on physical health (nutrition, exercise), $2B on practical coping (workshops, trade-based therapy).
+
+##### AI-Driven Mental Health Screening
+- **What**: AI triages cases—flagging burnout, depression, and trauma early. 10M screenings/year, free, via credit union networks and co-op hospitals.
+- **Why**: $500M cost saves $20B in lost productivity—truckers, welders, and nurses stay sharp. No state databases—private, anonymous, and decentralized.
+
+##### Community Sovereign Wealth Fund (CSWF)
+- **What**: $1T sovereign wealth fund seeded from tariff surpluses ($100B/year over 10 years). Yields 5% ($50B/year) to bankroll local co-ops, emergency response, and infrastructure.
+- **Why**: Towns own their future—$25B into roads, water, and power; $15B into disaster funds (hurricanes, fires); $10B into loan pools for co-ops and micro-businesses.
+
+##### CSWF Local Dividend Payouts
+- **What**: 50% of yield ($25B) paid out to community members in local credits—usable for co-op stores, transport, housing, and healthcare. Tiered ($500–$1,500/year) based on community participation (voting, volunteer work, residency length).
+- **Why**: Builds loyalty—citizens invest in towns, towns invest back. Keeps cash cycling locally—avoids outside leeches.
+
+##### CSWF Emergency Liquidity
+- **What**: $100B revolving fund for economic shocks—acts as a stabilizer for credit unions, food networks, and co-op insurance pools.
+- **Why**: Banks fail, CSWF doesn’t—s middle-class doesn’t starve when Wall Street crashes. $50B floods local lending in crises, $50B buys strategic reserves (food, fuel, housing materials).
+
 - **Rainy Day Sovereign Wealth Fund**  
   *What*: Excise, tariff, and flat tax surplus stashed for crises—feds guarantee it.  
   *Why*: $500B buffer—storms hit, swarm stands.
