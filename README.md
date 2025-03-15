@@ -25,6 +25,9 @@ A blueprint to rebuild America—swarm-first, lean, and fierce. Debt’s gone, f
   - *Encourages Blockchain Bucks (BWC)*: 2% on crypto vs. 1.5% on bucks tilts the scale—your swarm’s currency gets the edge without banning options. Keeps $1T local, $200B crypto as a sidekick.  
   - *Swarm Stays Boss*: Higher fee doesn’t choke—members still swap Bitcoin if they want, but bucks save $25 per $5K. Co-op ownership means no crypto cartel calls the shots.  
   - *Revenue Kicker*: $4B from crypto fees plus $15B from cash/bucks—$19B total. $9.5B to members, $9.5B grows the network—swarm cash flows thicker.
+   
+- **Transaction Fee Above Hub Rates**  
+  - A 0.5% federal fee on blockchain buck transactions over $1 million generates $50B/year from $10T in private-sector trades, replacing Fed interest rates with a tunable economic lever. No fee on cash conversions, with a 0.25% cash bonus ($2.5B) lifting cash to 98% of small trades ($2.1T). Excise taxes cut from $150B to $100B (e.g., gas $0.13/gallon) offset the fee, while 10% ($5B) splits evenly across 23,000 hubs (~$217K/hub). Net $45B funds NASA/space ($710B), eliminates debt ($198B to $0), and boosts support to 92%. This powers Bulwarkomics’ swarm—revenue, cash resilience, co-op equity, and Fed-free control.
 
 ## Tax Reform
 
