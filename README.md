@@ -55,6 +55,10 @@ A blueprint to rebuild America—swarm-first, lean, and fierce. Debt’s gone, f
   *What*: $1T fund from $4.5T junk bond dump (Debt Jubilee)—earns 5% ($50B/year) to seed co-op healthcare.  
   *Why*: Shaves $1T off fed healthcare—$50B/year fuels swarm clinics, no new taxes.
 
+ **Co-op Healthcare System**  
+  *What*: Co-ops (1,000 members, $1K buy-in) run clinics and insurance—$500/month premiums, $2K deductibles. $1T Healthcare SWF (from $4.5T junk bond dump) seeds $50B/year; co-ops raise $198B, cover $152B via fees/cuts.  
+  *Why*: Cuts $1T fed healthcare bloat—$300B stays local. Swarm heals itself; no corporate gouge.
+
 #### Mental Health & CSWF
 
 ##### Mental Health Sovereign Wealth Fund (MHSWF)
@@ -117,10 +121,6 @@ A blueprint to rebuild America—swarm-first, lean, and fierce. Debt’s gone, f
   *What*: Seed co-ops with $5B—$1 shares, 70% local-owned (1,000 neighbors). Grab $200B/year infra (potholes) and $50B/year youth trades (grocery co-ops, weld shops).  
   *Why*: Locals run it—$1.5K/member dividends long-term. Skips gov waste; swarm cash multiplies.
 
-- **Co-op Healthcare System**  
-  *What*: Co-ops (1,000 members, $1K buy-in) run clinics and insurance—$500/month premiums, $2K deductibles. $1T Healthcare SWF (from $4.5T junk bond dump) seeds $50B/year; co-ops raise $198B, cover $152B via fees/cuts.  
-  *Why*: Cuts $1T fed healthcare bloat—$300B stays local. Swarm heals itself; no corporate gouge.
-
 - **Repeal Anti-Co-op Laws Nationwide**  
   *What*: Scrap all federal and state laws blocking co-ops—e.g., bans on collective bargaining, tax penalties, zoning traps.  
   *Why*: Unleashes $500B in co-op growth—33,000 co-ops multiply fast. Swarm runs free, not shackled.
@@ -132,7 +132,7 @@ A blueprint to rebuild America—swarm-first, lean, and fierce. Debt’s gone, f
 ## Workforce and Society
 
 - **Education Reform**  
-  *What*: $200B vouchers—$10K/kid. Ages 5–15 learn reading, math, grit; 12–15 run shops ($5B loans, $3B profit—cookie hustles); 18–20 serve 2 years (500K kids, 85% snag $30K jobs).  
+  *What*: $200B vouchers—$10K/kid. Ages 5–15 learn reading, math, grit; 12–15 run shops, Financial Literacy, 16-18 apprenticeships, Classical Education (logic,virtue,love),($5B loans, $3B profit—cookie hustles); 18–20 serve 2 years (500K kids, 85% snag $30K jobs).  
   *Why*: Ditches $50K-debt grads for welders and hustlers—$1.5K kits fund skills. Parents pick—middle class works.
 
 - **National Service**  
